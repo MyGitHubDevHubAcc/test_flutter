@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864431156376",
+    "project_id": "farmers-market-75b95",
+    "storage_bucket": "farmers-market-75b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864431156376:android:62f7e3a07ccb72ade0b4ed",
+        "android_client_info": {
+          "package_name": "com.alidinho.flutter_first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864431156376-cq8i4mprds7k958m8rll1e3ch1su2gdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alidinho.flutter_first_app",
+            "certificate_hash": "40987e23dc9f9d3d94a4905d2a41a682152f1c1f"
+          }
+        },
+        {
+          "client_id": "864431156376-lbfrlrh2s325b72s432iijajcd1kjnkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzrt6prPapkkfkCpGDYiKa7zMqnWw0eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864431156376-lbfrlrh2s325b72s432iijajcd1kjnkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
